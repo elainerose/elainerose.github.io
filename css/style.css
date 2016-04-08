@@ -1,0 +1,27 @@
+/*div class="col"*/
+
+table{
+	width:80%; margin: 0 auto;
+}
+
+.col{
+	background-color: #FFE4CA;
+	font-size: 20px;
+	font-weight: bold;
+    margin:0 auto;
+}
+
+.co1{
+	background-color: #FFFFCE ;
+}
+.co2{
+	background-color: #C4E1FF;
+}
+
+.co3{
+	background-color: #DEFFAC;
+}
+
+td {
+    padding: 10px;
+}
