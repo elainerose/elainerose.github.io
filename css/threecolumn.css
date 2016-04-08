@@ -1,0 +1,48 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#container {
+
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.header {
+    
+    background-color: #FFFF33;
+    color: green;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.aside {
+    background-color: #33FFDD;
+    width: 200px;
+    padding: 10px;
+    float: left;
+}
+
+.section {
+    width: 300px;
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    float: left;
+
+}
+.rightside {
+    background-color: #0000AA;
+    width: 100px;
+    padding: 10px;
+    float: left;
+    height: 200px;
+}
+
+.footer {
+    background-color: #00FF00;
+    clear: both;
+}

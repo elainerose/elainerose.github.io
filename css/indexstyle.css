@@ -10,12 +10,18 @@
 	/*width: 300px;*/
 	border: 3px;
 }
+.hw7 a{
+	color: white;
+}
 .hw3{
 	color: white;
 	background-color:#73BF00;
 	/*width: 300px;*/
 	border: 3px;
 	height: 70px;
+}
+.hw3 a{
+	color: white;
 }
 .hw4{
 	color: white;
